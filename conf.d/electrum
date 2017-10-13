@@ -3,4 +3,4 @@
 SRC=/usr/local/src
 
 # install electrum
-pip2 install https://download.electrum.org/2.9.0/Electrum-2.9.0.tar.gz
+pip2 install https://download.electrum.org/2.9.3/Electrum-2.9.3.tar.gz
